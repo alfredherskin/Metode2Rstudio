@@ -7,3 +7,5 @@ library(stargazer)
 data <- read.csv("ESS7e02_3.csv")
 
 write_dta(data, "ESS7e02_3.dta")
+
+hehehehehe
